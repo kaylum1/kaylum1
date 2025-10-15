@@ -40,7 +40,7 @@ code based coursework
 
 group, code based coursework
 -  [ECM2414 — Software Development](https://github.com/kaylum1/ECM2414-Software-Development)
--  [ECM2428 — Group Software Engineering Project](https://github.com/kaylum1/ECM2428-Group-Software-Engineering)
+-  [ECM2428 — Group Software Engineering Project](https://github.com/PImpliesQ)
 
 writing
 -  [ECM2424 — Outside the Box: Computer Science Research and Development](https://github.com/kaylum1/ECM2424-Outside-the-Box)
