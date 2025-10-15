@@ -11,25 +11,7 @@ Here you’ll find my academic, technical, and professional work organised into 
 ---
 
 
-## 🎓 University of Exeter — BSc Computer Science (2022–2025)
-
-Explore my academic work and projects completed across three years of study.
-
-### [Year 1 — Foundations](https://github.com/kaylum1/university-of-exeter/tree/main/year-1)   Core modules covering programming fundamentals, mathematics, and introductory computer science concepts.
-
-#### CAs
-
-- [ECM1417 — Web Development](https://github.com/kaylum1/ECM1417-Web-Development)  
-
-
-### [Year 2 — Development & Systems](https://github.com/kaylum1/university-of-exeter/tree/main/year-2) Focused on advanced programming, software engineering, networking, and database design.
-
-
-### [Year 3 — Dissertation & Advanced Topics](https://github.com/kaylum1/university-of-exeter/tree/main/year-3)
-
-
----
----
+## 🎓 University of Exeter — BSc Computer Science (2021–2025)
 
 ###  [Year 1 — Foundations](https://github.com/kaylum1/university-of-exeter/tree/main/year-1)
 Core modules introducing programming, mathematics, and web development.
