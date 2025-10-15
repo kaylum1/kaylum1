@@ -30,13 +30,19 @@ Core modules introducing programming, mathematics, and web development.
 ###  [Year 2 — Development & Systems](https://github.com/kaylum1/university-of-exeter/tree/main/year-2)
 Focus on software design, networking, databases, and programming in C.
 
--  [ECM2414 — Software Development](https://github.com/kaylum1/ECM2414-Software-Development)
+code based coursework
 -  [ECM2419 — Database Theory and Design](https://github.com/kaylum1/ECM2419-Database-Theory-and-Design)
 -  [ECM2426 — Network and Computer Security](https://github.com/kaylum1/ECM2426-Network-and-Computer-Security)
--  [ECM2428 — Group Software Engineering Project](https://github.com/kaylum1/ECM2428-Group-Software-Engineering)
 -  [ECM2433 — The C Family](https://github.com/kaylum1/ECM2433-The-C-Family)
 -  [ECM2407 — Computer Languages and Representations](https://github.com/kaylum1/ECM2407-Computer-Languages-and-Representations)
 -  [ECM2435 — Artificial Intelligence and Applications](https://github.com/kaylum1/ECM2435-Artificial-Intelligence-and-Applications)
+
+
+group, code based coursework
+-  [ECM2414 — Software Development](https://github.com/kaylum1/ECM2414-Software-Development)
+-  [ECM2428 — Group Software Engineering Project](https://github.com/kaylum1/ECM2428-Group-Software-Engineering)
+
+writing
 -  [ECM2424 — Outside the Box: Computer Science Research and Development](https://github.com/kaylum1/ECM2424-Outside-the-Box)
 
 ---
