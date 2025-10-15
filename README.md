@@ -9,7 +9,7 @@ Here you’ll find my academic, technical, and professional work organised into 
 
 
 ---
-
+add that no loger have access to my univeristy github account so, i have uploaded all files from downlaoded up muy coursework upload from exeter univeristy database
 
 ## 🎓 University of Exeter — BSc Computer Science (2021–2025)
 
