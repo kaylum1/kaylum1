@@ -38,7 +38,7 @@ Concentrated on research, algorithms, and machine learning.
 
 *(You can later add your dissertation repo here once it’s public.)*
 
-
+---
 
 ## 🚚 Verbier Delivery
 **Operations, automation, and logistics projects**  
