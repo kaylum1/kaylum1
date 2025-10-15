@@ -9,13 +9,17 @@ Here you’ll find my academic, technical, and professional work organised into 
 
 ---
 
-## 🎓 University of Exeter
-**My Computer Science work (Years 1–3)**  
-- [Year 1 Projects](https://github.com/kaylum1/uni-year1)  
-- [Year 2 Projects](https://github.com/kaylum1/uni-year2)  
-- [Year 3 / Dissertation](https://github.com/kaylum1/uni-year3)  
+## 🎓 University of Exeter — BSc Computer Science (2022–2025)
+Explore my academic work and projects completed across three years of study.
+
+📘 **Years:**
+- 🧩 [Year 1 — Foundations](https://github.com/kaylum1/university-of-exeter/tree/main/year-1)
+- 💻 [Year 2 — Development & Systems](https://github.com/kaylum1/university-of-exeter/tree/main/year-2)
+- 🧠 [Year 3 — Dissertation & Advanced Topics](https://github.com/kaylum1/university-of-exeter/tree/main/year-3)
 
 ---
+
+
 
 ## 🚚 Verbier Delivery
 **Operations, automation, and logistics projects**  
