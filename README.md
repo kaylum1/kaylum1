@@ -15,12 +15,10 @@ Here you’ll find my academic, technical, and professional work organised into 
 
 Explore my academic work and projects completed across three years of study.
 
+### 🧩 [Year 1 — Foundations](https://github.com/kaylum1/university-of-exeter/tree/main/year-1)   Core modules covering programming fundamentals, mathematics, and introductory computer science concepts.
 
-### 📘 Years
+#### CAs
 
-#### 🧩 [Year 1 — Foundations](https://github.com/kaylum1/university-of-exeter/tree/main/year-1)   Core modules covering programming fundamentals, mathematics, and introductory computer science concepts.
-
-**Featured Projects**
 - 🌐 [ECM1417 — Web Development](https://github.com/kaylum1/ECM1417-Web-Development)  
   *Introduced front-end web design and development using HTML, CSS, and JavaScript.  
   Built a responsive portfolio website showcasing accessibility, interactivity, and modern design principles.*
