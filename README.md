@@ -15,25 +15,18 @@ Here you’ll find my academic, technical, and professional work organised into 
 
 Explore my academic work and projects completed across three years of study.
 
-### 🧩 [Year 1 — Foundations](https://github.com/kaylum1/university-of-exeter/tree/main/year-1)   Core modules covering programming fundamentals, mathematics, and introductory computer science concepts.
+### [Year 1 — Foundations](https://github.com/kaylum1/university-of-exeter/tree/main/year-1)   Core modules covering programming fundamentals, mathematics, and introductory computer science concepts.
 
 #### CAs
 
-- 🌐 [ECM1417 — Web Development](https://github.com/kaylum1/ECM1417-Web-Development)  
-  *Introduced front-end web design and development using HTML, CSS, and JavaScript.  
-  Built a responsive portfolio website showcasing accessibility, interactivity, and modern design principles.*
+- [ECM1417 — Web Development](https://github.com/kaylum1/ECM1417-Web-Development)  
 
 
-#### 💻 [Year 2 — Development & Systems](https://github.com/kaylum1/university-of-exeter/tree/main/year-2)
-Focused on advanced programming, software engineering, networking, and database design.
-
-*(Add featured modules here later — e.g., Software Development or Network Security)*
+### [Year 2 — Development & Systems](https://github.com/kaylum1/university-of-exeter/tree/main/year-2) Focused on advanced programming, software engineering, networking, and database design.
 
 
-#### 🧠 [Year 3 — Dissertation & Advanced Topics](https://github.com/kaylum1/university-of-exeter/tree/main/year-3)
-Concentrated on research, algorithms, and machine learning.
+### [Year 3 — Dissertation & Advanced Topics](https://github.com/kaylum1/university-of-exeter/tree/main/year-3)
 
-*(You can later add your dissertation repo here once it’s public.)*
 
 ---
 
