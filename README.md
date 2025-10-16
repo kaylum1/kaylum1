@@ -71,7 +71,7 @@ Concentrated on algorithms, data science, and independent research.
 
 ## 💼 Heineman Foundation
 **Non-profit and finance committee work**  
-- [Financial Review Resources](https://github.com/kaylum1/heineman-foundation)  
+- [updated websites] (https://github.com/kaylum1/heineman-foundation-website)
 
 ---
 
