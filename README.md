@@ -64,7 +64,7 @@ Concentrated on algorithms, data science, and independent research.
 
 ## 🚚 Verbier Delivery
 **Operations, automation, and logistics projects**  
-- [Delivery Operations Dashboard](https://github.com/kaylum1/verbier-delivery)  
+- [Delivery Operations Scheduler](https://github.com/kaylum1/verbier-delivery)  
 - [Dispatch Simulation Tools](https://github.com/kaylum1/dispatch-sim)  
 
 ---
